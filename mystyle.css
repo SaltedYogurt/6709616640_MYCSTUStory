@@ -226,6 +226,18 @@ header {
     padding: 0;
 }
 
+.box2 {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    width: 260px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 /** End of myjourney.html part**/
 
 /** Begin of myfuture.html part**/
