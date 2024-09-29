@@ -13,7 +13,7 @@ html {
 
 body {
     background-color: #131314;
-    height: 100vh;
+    height: 100px;
     flex-direction: row;
 
 }
@@ -298,3 +298,20 @@ li {
 }
 
 /** End of myfuture.html part**/
+
+footer {
+    position: fixed;
+    background-color: #1e1e1e;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+    bottom: 0;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 1em;
+    color: #808080;
+}
