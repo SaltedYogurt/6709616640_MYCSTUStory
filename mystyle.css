@@ -238,12 +238,40 @@ header {
     justify-content: space-between;
 }
 
+.box-section2 {
+    display: flex;
+    text-align: left;
+    font-size: 20px;
+    width: 230px;
+
+}
+
+.Timeline-lists {
+    color: #ffffff;
+    margin-left: 0px;
+    margin-left: 35px;
+    font-size: 18px;
+    padding: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-left: 0px;
+}
+
+.caption {
+    color: #494949;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 1.5em;
+}
+
 /** End of myjourney.html part**/
 
 /** Begin of myfuture.html part**/
 
 #heading3 {
-    background: #ff0000;
+    background: #444444;
     background: radial-gradient(circle farthest-corner at center center, #ff0000 0%, #ffd000 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;    
