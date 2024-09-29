@@ -215,4 +215,28 @@ header {
 
 /** End of index.html part**/
 
+/** Begin of myjourney.html part**/
+
+#heading4 {
+    background: #ff00ea;
+    background: radial-gradient(circle farthest-corner at center center, #ff00ea 0%, #00ffdd 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+
+/** End of myjourney.html part**/
+
 /** Begin of myfuture.html part**/
+
+#heading3 {
+    background: #ff0000;
+    background: radial-gradient(circle farthest-corner at center center, #ff0000 0%, #ffd000 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;    
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+
+/** End of myfuture.html part**/
